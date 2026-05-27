@@ -1,0 +1,6 @@
+{
+  "name": "DamageScan Auto",
+  "description": "Análise inteligente de danos veiculares com estimativa de custo baseada no mercado brasileiro.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
